@@ -1,6 +1,6 @@
 <h1 align="center">Si Ocong ␎⌘</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&letterSpacing=0.2rem&duration=4000&pause=1000&color=38F7D5&width=435&separator=%3C&lines=Gamer+ID+Owner%3C;%3CAzureHotel+Enthusiast%3C;%3C;+At+the+end+it's+about+logic" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=23&duration=4000&pause=1000&height=52&separator=%3C&lines=++Gamer+ID+Owner+%26+Developer%3C;%3C++++++AzureHotel+Enthusiast%3C;%3C;+At+the+end+it's+about+logic" alt="Typing SVG" /></a>
 </p>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lrNzd3MHdwbGRiZWdiNmJvaGkzcHBlYWNxb3R3Yzd1OWwwbDhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vsL4uHNYPQtzAOveN/giphy.gif" width="800" />
@@ -20,10 +20,12 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Py"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
+  </br>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Kerad"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   </p>
 </div>
 
@@ -41,14 +43,16 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=siocongs&show_icons=true&theme=radical" alt="Si Ocong's GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siocongs&layout=compact&theme=radical" alt="Top Langs" />
+ <img src= "https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <div align="center">
   <h3>📬 Connect with Me</h3>
   <p>
+   <a href="https://[LINK-SOCIAL-MEDIA-ANDA]"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" /></a>
     <a href="https://[LINK-SOCIAL-MEDIA-ANDA]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://[LINK-SOCIAL-MEDIA-ANDA]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+   <a href="https://[LINK-SOCIAL-MEDIA-ANDA]"><img src="https://img.shields.io/badge/connect-fff?style=for-the-badge&logo=symfony&logoColor=black" /></a>
   </p>
 </div>
