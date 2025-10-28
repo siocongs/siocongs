@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>👨‍💻 About This USER?</h3>
-  <p>Gamer ID Owner | AzureHotel Enthusiast</p>
+  <p>Gamer ID Owner | AzureHotel Enthusiast | Master Prompter</p>
   <p>"A junior developer"</p>
 </div>
 
