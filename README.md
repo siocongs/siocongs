@@ -1,7 +1,9 @@
 <h1 align="center">Si Ocong ␎⌘</h1>
-<p align="center">
- <a href="gamerid.com"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=23&duration=4000&pause=1000&height=52&separator=%3C&lines=++Gamer+ID+Owner+%26+Developer%3C;%3C++++++AzureHotel+Enthusiast%3C;%3C;+At+the+end+it's+about+logic" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="gamerid.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=26&duration=5000&pause=575&width=600&height=52&center=true&vCenter=true&separator=%3C&lines=Software+%26+Fullstack+Developer%3C;%3CAzureHotel+Enthusiast%3C;%3C;+At+the+end+it's+about+logic" alt="Typing SVG" />
+  </a>
+</div>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lrNzd3MHdwbGRiZWdiNmJvaGkzcHBlYWNxb3R3Yzd1OWwwbDhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vsL4uHNYPQtzAOveN/giphy.gif" width="800" />
 </div>
