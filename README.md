@@ -1,7 +1,7 @@
 <h1 align="center">Si Ocong ␎⌘</h1>
 <div align="center">
   <a href="gamerid.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=26&duration=5000&pause=575&width=600&height=52&center=true&vCenter=true&separator=%3C&lines=Software+%26+Fullstack+Developer%3C;%3CDevSecOps+%26+Network+Analyst%3CPenetration+Tester+Exploitation+OSINT%3C;%3C;+Scientia+potentia+est..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=26&duration=5000&pause=575&width=600&height=52&center=true&vCenter=true&separator=%3C&lines=Software+%26+Fullstack+Developer%3C;%3CDevSecOps+%26+Network+Analyst%3CPenetration+Tester+Exploitation:+OSINT%3C;%3C;+Scientia+potentia+est..." alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
