@@ -1,13 +1,16 @@
 <h1 align="center">Si Ocong ␎⌘</h1>
 <div align="center">
   <a href="gamerid.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=26&duration=5000&pause=575&width=600&height=52&center=true&vCenter=true&separator=%3C&lines=Software+%26+Fullstack+Developer%3C;%3CAzureHotel+Enthusiast%3C;%3C;+At+the+end+it's+about+logic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&size=26&duration=5000&pause=575&width=600&height=52&center=true&vCenter=true&separator=%3C&lines=Software+%26+Fullstack+Developer%3C;%3CDevSecOps+%26+Network+Analyst%3CPenetration+Tester+Exploitation:+OSINT%3C;%3C;+Scientia+potentia+est..." alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lrNzd3MHdwbGRiZWdiNmJvaGkzcHBlYWNxb3R3Yzd1OWwwbDhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vsL4uHNYPQtzAOveN/giphy.gif" width="800" />
-</div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lrNzd3MHdwbGRiZWdiNmJvaGkzcHBlYWNxb3R3Yzd1OWwwbDhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vsL4uHNYPQtzAOveN/giphy.gif" width="800" height="425" />
+</div></br> 
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siocongs&column=-1" alt="siocong's GitHub trophy">
+</div>
 
 <div align="center">
   <h3>👨‍💻 About This USER?</h3>
