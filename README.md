@@ -8,7 +8,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lrNzd3MHdwbGRiZWdiNmJvaGkzcHBlYWNxb3R3Yzd1OWwwbDhnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vsL4uHNYPQtzAOveN/giphy.gif" width="800" height="425" />
 </div></br> 
 
-<hr>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=siocongs&theme=light" alt="siocongs's GitHub trophy">
