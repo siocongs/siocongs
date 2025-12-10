@@ -11,7 +11,8 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siocongs&theme=light" alt="siocongs's GitHub trophy">
+  <img src="https://github-trophies.vercel.app/?username=siocongs&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="siocongs's GitHub trophy">
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=siocongs&theme=light" alt="siocongs's GitHub trophy"> -->
 </div>
 
 <div align="center">
